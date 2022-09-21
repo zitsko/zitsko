@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kostas Kotsis</h1>
+<h1 align="center">Hi 👋, I'm Kostas</h1>
 <h3 align="center">I am a front end developer, learning by building websites and web applications through Scrimba FrontEnd Developer Career Path.</h3>
 
 - 🔭 I’m currently working on **Scrimba Solo Projects**
