@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://zitsko.github.io/portfolio/](https://kostaskotsisportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [kostaskotsisportfolio](https://kostaskotsisportfolio.netlify.app/)
 
 - 📫 How to reach me **kostaskotsis87@gmail.com**
 
