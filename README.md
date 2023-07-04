@@ -1,18 +1,32 @@
-<h1 align="center">Hi 👋, I'm Kostas</h1>
-<h3 align="center">I am a front end developer, learning by building websites and web applications through Scrimba FrontEnd Developer Career Path.</h3>
+Hello, I'm Kostas Kotsis 👋
 
-- 🔭 I’m currently working on **Scrimba Solo Projects**
+I am a passionate and dedicated full-stack developer with a strong focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I recently completed a comprehensive full-stack bootcamp that equipped me with the necessary skills and knowledge to build robust web applications.
 
-- 🌱 I’m currently learning **React**
+💻 Skills:
 
-- 👨‍💻 All of my projects are available at [kostaskotsisportfolio](https://kostaskotsisportfolio.netlify.app/)
+    Frontend: React.js, HTML, CSS, JavaScript
+    Backend: Node.js, Express.js
+    Database: MongoDB
+    Version Control: Git
+    Deployment: Render, Netlify
 
-- 📫 How to reach me **kostaskotsis87@gmail.com**
+ 📚 Education:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+    Full-Stack Bootcamp with a focus on MERN Stack at SocialHackers
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+    FrontEnd Developer Path at Scrimba
+
+ 
+ 👨‍💻 My projects are available at [kostaskotsisportfolio](https://kostaskotsisportfolio.netlify.app/)
+
+
+🔗 Connect with Me:
+
+Let's connect and explore opportunities to collaborate on exciting projects. Feel free to reach out to me via LinkedIn or email.
+
+LinkedIn: https://www.linkedin.com/in/kostas-kotsis/
+
+Email: kostaskotsis87@gmail.com
+
+
 
