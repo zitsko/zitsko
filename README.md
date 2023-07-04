@@ -11,10 +11,10 @@ I am a passionate and dedicated full-stack developer with a strong focus on the 
     Deployment: Render, Netlify
 
  📚 Education:
+ 
+-Full-Stack Bootcamp with a focus on MERN Stack at SocialHackers: https://socialhackersacademy.org/
 
-    Full-Stack Bootcamp with a focus on MERN Stack at SocialHackers
-
-    FrontEnd Developer Path at Scrimba
+-FrontEnd Developer Path at Scrimba: https://scrimba.com/
 
  
  👨‍💻 My projects are available at [kostaskotsisportfolio](https://kostaskotsisportfolio.netlify.app/)
